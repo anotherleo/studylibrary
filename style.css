@@ -72,6 +72,7 @@ span.tag {
   border: 0px solid #595959;
   border-radius: 0px 8px 0px 8px;
   color: white;
+  text-size:0.8px;
 
 //*
 span.tagHacker {
