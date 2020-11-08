@@ -66,6 +66,14 @@ nav {
 }
 
     /* TAGS */
+span.tag {
+  background-color: black;
+  padding: 6px;
+  border: 0px solid #595959;
+  border-radius: 0px 8px 0px 8px;
+  color: white;
+
+//*
 span.tagHacker {
   background-color: #ff9999;
   padding: 4px;
@@ -79,12 +87,14 @@ span.tagAuthor {
   border: 0px solid #595959;
   border-radius: 0px 5px 0px 5px;
 }
+*//
 
 /* FOOTER */
 footer {
   font-size: 0.8em;
   background-color:#cccccc;
   margin:25px 0px 25px 0px;
+  text-align:center;
 }
 
 
