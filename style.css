@@ -32,16 +32,21 @@ img.icon {
     /* SECTIONS */
 
 h2 {
-  text-align:center;
+  text-align: center;
 }
 
 h4 {
-  text-align:center;
+  text-align: center;
+  margin: 1em 0em 1em 0em;
+}
+
+nav {
+  margin:5px;
 }
 
 #pessoas article {
   display:inline-block;
-  width: 250px;
+  width: 200px;
   padding: 5px 5px 10px 5px;
   margin: 15px 15px 0px 0px;
   text-align: center;
@@ -59,11 +64,11 @@ span.tagHacker {
   background-color: #ff9999;
   padding: 2px;
   border: 1px solid #595959;
-  font-size: 0.6em;
-  font-weight:bold;
 }
 span.tagAuthor {
   background-color: #c6ecc6;
+  padding: 2px;
+  border: 1px solid #595959;
 }
 
 
