@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
-  /* help me lord... */
-
 body {
   font-family: Special Elite;
   text-transform: uppercase;
@@ -43,22 +41,25 @@ h4 {
 #pessoas article {
   display:inline-block;
   width: 250px;
-  padding: 5px 5px 10px 5px;;
-  margin-right: 10px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 5px 5px 10px 5px;
+  margin: 15px 15px 0px 0px;
   text-align: center;
+  border: 1px solid #0d0d0d;
+  word-wrap: break-word;
+  word-break: keep-all;
+}
+
+#pessoas article:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
     /* TAGS */
 span.tagHacker {
   background-color: #ff9999;
   padding: 2px;
-  border-size: 1px;
-  border-color: #595959;
+  border: 1px solid #595959;
   font-size: 0.6em;
   font-weight:bold;
-  word-wrap: break-word;
-  word-break: keep-all;
 }
 span.tagAuthor {
   background-color: #c6ecc6;
