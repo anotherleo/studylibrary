@@ -9,6 +9,9 @@ body {
 h1 {
   text-align:center;
 }
+span.line{
+  text-decoration: line-through;
+}
 h3 {
   text-align:center;
 }
