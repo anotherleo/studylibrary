@@ -33,6 +33,10 @@ img.icon {
 
     /* SECTIONS */
 
+section {
+  margin: auto;
+}
+
 h2 {
   text-align: center;
 }
@@ -43,7 +47,7 @@ h4 {
 }
 
 nav {
-  margin:5px;
+  margin: 5px;
 }
 
 #pessoas article {
