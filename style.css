@@ -5,18 +5,17 @@ body {
   text-transform: uppercase;
 }
 
-    /* MAIN HEADER */
 h1 {
   text-align:center;
 }
+
 span.line{
   text-decoration: line-through;
 }
+
 h3 {
   text-align:center;
 }
-
-    /* IMAGES */
 
 img.sectionLogo {
   width: 60px;
@@ -35,8 +34,6 @@ img.icon {
 /* icons in https://www.flaticon.com/packs/search-44 */
 /* icons in https://www.flaticon.com/packs/e-learning-2 */
 /* https://www.flaticon.com/packs/seo-and-online-marketing-16 */
-
-    /* SECTIONS */
 
 section {
   margin: auto;
@@ -70,13 +67,11 @@ nav {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-/* FOOTER */
 footer {
   font-size: 0.8em;
   background-color:#cccccc;
   margin:25px 0px 25px 0px;
   text-align:center;
+  margin: 20px 0px 20px 0px;
 }
-
-
 
