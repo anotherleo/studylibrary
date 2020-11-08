@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+  /* help me lord... */
+
+body {
+  font-family: Special Elite;
+  text-transform: uppercase;
+}
+
+    /* MAIN HEADER */
+h1 {
+}
+h3 {
+}
+
+    /* IMAGES */
+
+img.sectionLogo {
+  width: 30px;
+  height: 30px;
+}
+/* icons in https://www.flaticon.com/packs/genius-3 */
+
+    /* SECTIONS */
+
+h2 {
+}
+
+#pessoas article {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+
