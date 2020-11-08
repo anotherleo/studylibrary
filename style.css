@@ -73,6 +73,7 @@ span.tag {
   border-radius: 0px 8px 0px 8px;
   color: white;
   text-size:0.8em;
+}
 
 //*
 span.tagHacker {
@@ -80,7 +81,6 @@ span.tagHacker {
   padding: 4px;
   border: 0px solid #595959;
   border-radius: 0px 5px 0px 5px;
-
 }
 span.tagAuthor {
   background-color: #c6ecc6;
