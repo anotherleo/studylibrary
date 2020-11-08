@@ -57,6 +57,8 @@ span.tagHacker {
   border-color: #595959;
   font-size: 0.6em;
   font-weight:bold;
+  word-wrap: break-word;
+  word-break: keep-all;
 }
 span.tagAuthor {
   background-color: #c6ecc6;
