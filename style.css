@@ -33,6 +33,7 @@ img.icon {
 /* icons in https://www.flaticon.com/packs/genius-3 */
 /* icons in https://www.flaticon.com/packs/social-media-35 */
 /* icons in https://www.flaticon.com/packs/search-44 */
+/* icons in https://www.flaticon.com/packs/e-learning-2 */
 
     /* SECTIONS */
 
@@ -67,33 +68,6 @@ nav {
 #pessoas article:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-
-    /* TAGS */
-span.tag {
-  background-color: black;
-  padding: 6px;
-  border: 0px solid #595959;
-  border-radius: 0px 8px 0px 8px;
-  color: white;
-  font-size:0.8em;
-  font-weight: bold;
-
-}
-
-//*
-span.tagHacker {
-  background-color: #ff9999;
-  padding: 4px;
-  border: 0px solid #595959;
-  border-radius: 0px 5px 0px 5px;
-}
-span.tagAuthor {
-  background-color: #c6ecc6;
-  padding: 2px;
-  border: 0px solid #595959;
-  border-radius: 0px 5px 0px 5px;
-}
-*//
 
 /* FOOTER */
 footer {
