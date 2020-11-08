@@ -9,25 +9,37 @@ body {
 
     /* MAIN HEADER */
 h1 {
+  text-align:center;
 }
 h3 {
+  text-align:center;
 }
 
     /* IMAGES */
 
 img.sectionLogo {
-  width: 30px;
-  height: 30px;
+  width: 60px;
+  height: 60px;
 }
+
+img.icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
+
 /* icons in https://www.flaticon.com/packs/genius-3 */
 
     /* SECTIONS */
 
 h2 {
+  text-align:center;
 }
 
 #pessoas article {
+  display:inline-block;
   width: 250px;
+  padding: 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
 }
