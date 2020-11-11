@@ -3,6 +3,8 @@
 body {
   font-family: Special Elite;
   text-transform: uppercase;
+  display: flex;
+  justify-content: center;
 }
 
 h1 {
