@@ -20,6 +20,25 @@ h3 {
   text-align:center;
 }
 
+.header-nav {
+  text-align:center;
+}
+
+.header-nav button {
+  font-family: Special Elite;
+  text-transform: uppercase;
+  font-weight: 800;
+  background: white;
+  border: 1px solid #000;
+  border-bottom: 5px solid #000;
+  padding:10px 15px;
+}
+
+.header-nav button:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transform: translateY(-8px);
+}
+
 /* cards */
 section {
   margin: 0;  
