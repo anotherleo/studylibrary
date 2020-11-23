@@ -22,11 +22,11 @@ h3 {
 
 /* cards */
 section {
-  margin: 0;
+  margin: 0;  
 }
 
 #cards article {
-  display:inline-block;
+  display: inline-block;
   background-color: #ffffff;
   width: 200px;
   padding: 5px 5px 10px 5px;
@@ -35,6 +35,10 @@ section {
   border: 1px solid #0d0d0d;
   word-wrap: break-word;
   word-break: keep-all;
+}
+
+#cards article:hover {
+  transform: translateY(-8px);
 }
 
 #cards article:hover {
@@ -55,6 +59,10 @@ img.icon {
   width: 25px;
   height: 25px;
   margin: 0px 5px 0px 5px;
+}
+
+img.icon:hover {
+  transform: translateY(-3px);
 }
 
 /* footer */
